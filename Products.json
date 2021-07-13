@@ -1,0 +1,37 @@
+[
+    {
+        "productId":1,
+        "productName":"Mochi",
+        "price":94.99,
+        "description":"lorem ipsum ...........",
+        "category":"snacks"
+    },
+    {
+        "productId":2,
+        "productName":"Peach Ice Tea",
+        "price":6599,
+        "description":"lorem ipsum ...........",
+        "category":"drinks"
+    },
+    {
+        "productId":3,
+        "productName":"Hot Pot Soup",
+        "price":41.99,
+        "description":"lorem ipsum ...........",
+        "category":"meals"
+    },
+    {
+        "productId":4,
+        "productName":"Poky sticks",
+        "price":38.99,
+        "description":"lorem ipsum ...........",
+        "category":"snacks"
+    },
+    {
+        "productId":5,
+        "productName":"Cucumber potatoe chips",
+        "price":2399,
+        "description":"lorem ipsum ...........",
+        "category":"snacks"
+    }
+]
